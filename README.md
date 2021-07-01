@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vibro (anish pudasaini)
+- 👋 Hi, I’m @Vibrio (anish pudasaini)
 - 👀 I’m interested in Blockchain 
 - 🌱 I’m currently learning blockchain technology 
 - 💞️ I’m looking to collaborate on a blockchain travel project 
